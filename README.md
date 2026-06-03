@@ -1,6 +1,3 @@
-
-raw
-Aperture readme · MD
 # Aperture
  
 A plain-language database of research, internship, and fellowship opportunities for first-generation and non-target students. Everything that exists, clearly described, in one place.
@@ -25,22 +22,15 @@ A plain-language database of research, internship, and fellowship opportunities 
 - Supabase account or local instance
 ### Install
  
-```bash
+```
 git clone https://github.com/sunrise-atelier/aperture
 cd aperture
 npm install
 ```
  
-### Environment variables
- 
-```bash
-cp .env.example .env.local
-# fill in your Supabase URL and anon key
-```
- 
 ### Run locally
  
-```bash
+```
 npm run dev
 ```
  
